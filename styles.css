@@ -1,0 +1,173 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+/* Evita el scroll horizontal */
+html, body {
+    overflow-x: hidden;
+}
+
+/* Corrige elementos que causan overflow */
+.container {
+    max-width: 100%;
+    overflow: hidden;
+}
+
+/* Ajusta imágenes */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+/* Estilos personalizados */
+.hero-section {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+    text-align: center;
+}
+.hero-section h1 {
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+.services-section {
+    padding: 50px 0;
+}
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+}
+
+/* Si hay un elemento con un ancho inesperado */
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+.bg-php {
+    background-color:#777bb4;
+    color: white;
+}
+.btn-php {
+    background-color:#9399e0;
+    color: white;
+}
+.bg-woocommerce {
+    background-color:#96588a;
+    color: white;
+}
+.btn-woocommerce {
+    background-color:#b77bb4;
+    color: white;
+}
+.bg-wordpress {
+    background-color:#21759b;
+    color: white;
+}
+.btn-wordpress {
+    background-color:#3a9abf;
+    color: white;
+}   
+.bg-javascript {
+    background-color:#f0db4f;
+    color: white;
+}
+.btn-javascript {
+    background-color:#f7e95d;
+    color: white;
+}
+.bg-html {
+    background-color:#e44d26;
+    color: white;
+}
+.btn-html {
+    background-color:#f16529;
+    color: white;
+}
+.bg-css {
+    background-color:#2965f1;
+    color: white;
+}
+.btn-css {
+    background-color:#4a8cf7;
+    color: white;
+}
+.bg-bootstrap {
+    background-color:#563d7c;
+    color: white;
+}
+.btn-bootstrap {
+    background-color:#6f5499;
+    color: white;
+}
+.bg-jquery {
+    background-color:#0868ac;
+    color: white;
+}
+.btn-jquery {
+    background-color:#0b8de3;
+    color: white;
+}
+.bg-java{
+    background-color:#0c0408;
+    color: white;
+}
+.btn-java {
+    background-color: #1f0d1d;
+    color: white;
+}
+.bg-python {
+    background-color:#306998;
+    color: white;
+}
+.btn-python {
+    background-color:#4a8cf7;
+    color: white;
+}
+.bg-laravel {
+    background-color:#f55247;
+    color: white;
+}
+.btn-laravel {
+    background-color:#f76a5a;
+    color: white;
+}
+.bg-sql {
+    background-color:#f29111;
+    color: white;
+}
+.btn-sql {
+    background-color:#f7a52b;
+    color: white;
+}
+.bg-react {
+    background-color:#61dafb;
+    color: white;
+}
+.btn-react {
+    background-color:#7bdff2;
+    color: white;
+}
+.bg-angular {
+    background-color:#c3002f;
+    color: white;
+}
+.btn-angular {
+    background-color:#e60032;
+    color: white;
+}
+.bg-linux {
+    color:#fffb00f6;
+    background-color: #333333;
+}
+.btn-linux {
+    background-color:#333333;
+    color: white;
+}
+.bg-github {
+    background-color:#333333;
+    color: white;
+}
+.btn-github {
+    background-color:#333333;
+    color: white;
+}
